@@ -20,7 +20,7 @@ From [my first journal:](journals/2024-06-17.md)
 >It's also a game about road trips I guess.
 
 ## Game Texts
-- [*The Priest of the Road*](game-texts/priest-of-the-road): The core rules
+- [*The Priest of the Road*](game-texts/priest-of-the-road.md): The core rules
 - [*Atlas of the Weave*](game-texts/atlas-of-the-weave.md): A booklet for volunteers
 - [*Mapping the Way*](game-texts/mapping-the-way.md): A sub-game for plotting journeys.
 
