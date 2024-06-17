@@ -11,7 +11,7 @@ This is the landing page for my game jam game, *The Priest of the Road*, a hack 
 I'm writing this game in Obsidian and documenting it according to the [Method for Design Materialisation (MDM)](https://www.gamesasresearch.com/mdm) developed by [the Games as Research Group](https://www.gamesasresearch.com/) at Concordia University in Montreal, Canada. To learn more about why I'm using MDM, check out [Why MDM?](#Why%20MDM?), below.
 
 ## What's this Game?
-From [my first journal:](2024-06-17.md)
+From [my first journal:](journals/2024-06-17.md)
 
 >The player assumes the role of a Priest of the Road. Their job is to help maintain the elaborate web of agreements among humans and spirits that help keep the roads safe for travelers, known as the Weave, and to help people traveling the roads. They're a sort of animist riff on the D&D cleric with a heavily sociological bent.
 >
@@ -21,11 +21,11 @@ From [my first journal:](2024-06-17.md)
 
 ## Game Texts
 - [*The Priest of the Road*](game-texts/priest-of-the-road): The core rules
-- [*Atlas of the Weave*](atlas-of-the-weave.md): A booklet for volunteers
-- [*Mapping the Way*](mapping-the-way.md): A sub-game for plotting journeys.
+- [*Atlas of the Weave*](game-texts/atlas-of-the-weave.md): A booklet for volunteers
+- [*Mapping the Way*](game-texts/mapping-the-way.md): A sub-game for plotting journeys.
 
 ## Journals
-- [2024-06-17: Basic premise, big ideas, agency](2024-06-17.md)
+- [2024-06-17: Basic premise, big ideas, agency](journals/2024-06-17.md)
 
 ## Why MDM?
 Look, I sat in on a roundtable on MDM and got excited and that's why I'm doing this. I'm not an expert or a spokesperson. But here's why I'm excited about it:
