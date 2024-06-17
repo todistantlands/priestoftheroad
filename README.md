@@ -25,7 +25,7 @@ From [my first journal:](2024-06-17.md)
 - [*Mapping the Way*](mapping-the-way.md): A sub-game for plotting journeys.
 
 ## Journals
-- [[2024-06-17|2024-06-17: Basic premise, big ideas, agency]]
+- [2024-06-17: Basic premise, big ideas, agency](2024-06-17.md)
 
 ## Why MDM?
 Look, I sat in on a roundtable on MDM and got excited and that's why I'm doing this. I'm not an expert or a spokesperson. But here's why I'm excited about it:
