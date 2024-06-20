@@ -1,4 +1,5 @@
 # Atlas of the Weave
+*Version 0.1*
 
 ## The Woven World
 
@@ -122,3 +123,54 @@ Tell the priest, "I make this supplication out of need and implore your mercy. I
 **If at last the Priest refuses, makes to leave, or otherwise moves to terminate the supplication without accepting,** tell them they risk disgracing their Order and continue at the peril of its Discipline, and ask them if they do it anyway.
 
 When the supplication ends, resume playing as usual.
+
+## Spirits
+
+Anything offered in good faith to a spirit is received, whether it be thanks, food, valuables, or the priest's time and energy.
+
+Escalations
+- scourged
+- marked as an enemy
+
+## The Order's Discipline
+The priest has hazarded a transgression. Decide with the other volunteer whether they bring down the discipline of their order.
+
+**Consideration:** Have they violated the Weave? In other words, have they taken some action that breaks their vows, or breaches some agreement between the Order and humans or spirits?
+
+If the priest violated the weave, tell them they are in violation.
+
+**Consideration:** Does the Order know of the priest's transgression, or are they certain or likely to find out?
+
+A violation cannot be disciplined without first being reported to the Order. Consider who, if anyone, was affected by or witnessed the violation. Besides good conscience, why might they report, or not? When will they next have the opportunity to contact another member of the Order?
+
+**If a report is likely and forthcoming,** mark as Reported the first disciplinary action not already so marked, and interpret it as the basis for your answer. **If the violation was especially serious,** as above, but the ramifications may be more severe; choose which action to mark.
+
+**If a report is likely but not forthcoming,** decide whether to mark an entry. You may also forestall deciding.
+
+**Either way,** don't tell the priest whether they are reported unless it should be obvious.
+
+**Disciplinary action is not usually immediate.** It requires the time for a report to be made and move through the proper channels. It's your job to decide when and where the priest encounters the action itself, once it's been reported. Use the checkboxes under the action to keep track of its progress.
+
+**Disciplinary measures**
+- The Order sends the priest the priest putting them on notice and reminding them of their obligations.
+	- [ ] *Reported*
+	- [ ] *Notice delivered*
+- The priest's tithe is appropriated in its entirety, leaving them penniless. They will need to find a petition, and quick.
+	- [ ] *Reported*
+	- [ ] *Funds appropriated*
+- An unpromising apprentice is dispatched to train under the priest and report back on any further violations. The apprentice will be recalled after a few journeys, or once the priest has decisively proven their fealty to the Order.
+	- [ ] *Reported*
+	- [ ] *Apprentice delivered*
+	- [ ] *Apprentice recalled*
+- The priest must redeem themself by undertaking an ordeal. (TODO: Idk about this one???)
+	- [ ] *Reported*
+	- [ ] *Order delivered*
+	- [ ] *Ordeal completed*
+- The priest receives notice that they must present themselves before a tribunal of fellow priests as soon as possible. (TODO: Procedure for tribunal?)
+	- [ ] *Reported*
+	- [ ] *Notice delivered*
+	- [ ] *Tribunal attended*
+- The priest's contempt for the Weave can no longer be tolerated. They must submit themselves before a Proctor of the Order to receive the Excommunicant's Brand. If they don't comply, priests and spirits will be dispatched to capture them. Tell the priest to consult the 'Excommunication' section of their booklet.
+	- [ ] *Reported*
+	- [ ] *Priests and spirits dispatched*
+	- [ ] *Priest branded*

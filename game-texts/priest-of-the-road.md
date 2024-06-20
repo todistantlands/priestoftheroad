@@ -1,4 +1,5 @@
 # The Priest of the Road
+*Version 0.1*
 
 **Table of Contents**
 
@@ -23,10 +24,18 @@ _In the order of their precedence:_
 4. Do no harm, except as is necessary for the protection of your life and your charge.
 
 ### Qualities
+
+| Tally |               |
+| :---: | ------------- |
+| 0     | *Staunch*     |
+| 2     | *Spry*        |
+| 1     | *Disciplined* |
+| 3     | *Sensitive*   |
+
 ### Your Exertions
 
 | Tally | Value                           | Exert yourself...                                                                                                                                                                                            |
-| ----- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| :---: | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 4     | Sensitive + 1                   | Intuitively, to grasp the nuances of a situation or person.                                                                                                                                                  |
 | 4     | Disciplined + Sensitive (min 3) | Devoutly, to perform the arts of your Order:  <br>  <br>- Study a voyage  <br>- Negotiate a Petition<br><br>- Commune with spirits  <br>- Incant wards and benedictions  <br>- Administer healing and succor |
 | 5     | Spry + Sensitive (min 3)        | Expertly, to undertake a journey.                                                                                                                                                                            |
@@ -41,7 +50,7 @@ _In the order of their precedence:_
 
 …to grasp the nuances of a situation, including the thoughts and states of the people within it.
 
-\\[TODO] and **roll.** On **any hits**, tell your volunteers you're going to ask them some questions about the situation you're observing. Ask one question for each hit:
+Ajshdhduid \[TODO] and **roll.** On **any hits**, tell your volunteers you're going to ask them some questions about the situation you're observing. Ask one question for each hit:
 
 **About a situation**
 
@@ -93,6 +102,8 @@ If you must roll: Tell your volunteers to consult the ‘Journeys’ section in 
 * What hazards or obstacles, if any, you worry might arise.
 
 Spend a hit and ask your volunteers if you arrive at your destination. If you don’t, ask how far you get, what you see there, and if anything troubles your way.
+
+Continue spending hits, asking the questions above, and asking whatever questions or making whatever exertions might arise in between, until you arrive at your destination or run out of hits.
 
 **When you arrive at your destination**, ask your volunteers what you see.
 
