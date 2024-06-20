@@ -391,9 +391,12 @@ On **no hits**, or if you have no dice to roll, choose one:
 
 ## Spawning Circumstances
 
+When you begin a new session, if you've played this game before and risked your Order's discipline, tell your volunteers to check 'The Order's Discipline' in the *Atlas of the Weave*. Ask them if you incurred any disciplinary measures between sessions before choosing your spawning circumstance.
+
 **With a charge**
 
 Many charges are shifty, troublesome, or clearly compromised. When you choose one of these, it's your job to decide why you took them on despite your reservations.
+
 * A masked stranger prevailed upon me to escort them several days through the wastelands to an abandoned fortress.
 * My charge is a petty noble hounded by a blood feud with their sibling. I escort them to a country inn where they hope to settle the affair. I fear this will end in bloodshed.
 * Someone wracked with illness pressed a newborn child into my arms and with their dying breaths supplicated me take the infant to the Priestess of the Tower of the Twinned Serpents - an arduous journey that will take weeks, at least.
