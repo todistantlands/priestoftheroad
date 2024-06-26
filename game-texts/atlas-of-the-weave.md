@@ -1,5 +1,5 @@
 # Atlas of the Weave
-*Version 0.1*
+*Version 0.2*
 
 ## The Woven World
 
@@ -66,11 +66,37 @@ The Weave spreads wide across the world, but the Order exists primarily in the m
 
 ## Charges
 
-Every charge journeys for reason .
+### Names
+- Pelent
+- Soguria
+- Felling
+- Afaster
+- Soso
+- Calen
+- Rovie
+- Tiffel
+### Appearances
 
-## Journeys
+### Their Hands
 
-TODO
+### Reasons to Voyage
+
+## Destinations
+### The Great Cities
+1. Watery, mellifluous **Pumpai**
+2. Ancient, stony **Thule**
+3. **Eakul**, city of a thousand idols
+4. Wind-swept, sun-soaked **Bala-Basam**
+5. Verdant, sweet-smelling **Sparrows**
+6. Dim, teeming **Lanternport**
+
+## Encounters
+The priest wishes to know what misfortune befalls them.
+### The indifference of time
+### Ravages of the elements
+### Human cruelty
+### Meddlesome spirits
+### A troublesome charge
 
 ## Spirits
 
@@ -125,16 +151,53 @@ Tell the priest, "I make this supplication out of need and implore your mercy. I
 When the supplication ends, resume playing as usual.
 
 ## Spirits
+The priest wants to know what spirits are present or within the Weave.
 
-Anything offered in good faith to a spirit is received, whether it be thanks, food, valuables, or the priest's time and energy.
+Spirits don't really understand humans. But they do understand the Weave, or at least what it promises them, and what they've promised it.
+### What Spirits Appear
+*Spirits are of the world.* To decide what spirits appear, always start with the land. What about the land here distinguishes it, expresses its character? Make that a spirit. Consider geography, flora, fauna, weather, etc. If you're really stuck, give spirits to whatever about the landscape comes to mind.
+
+*Spirits come from built things, too.* This is rare, for built things rarely last long enough to become a thing entirely itself. More common examples include old houses and hearths, well-used scissors, or a beloved toy.
+
+*Not all spirits are within the Weave.* For every spirit bound to the Weave, hundreds or thousands are not. The Weave only binds those spirits that are too powerful to leave alone, but not so strong they could tear the Weave apart.
+
+Here are some examples to get you started:
+
+*Beneath a wide sky:* The bellowing thunder; the keening wind; the gentle rain; the well-trod crossroads.
+
+*Where humans work the fields:* The prowling wolf; the lovers' copse; the fruitful harvest; the marrying grove; the standing stones; the murderer's abandoned house; the babbling brook; the ancient well, the well-loved public house; the fence that never falls.
+
+*In a forest:* The teeming birches; the leering owls; the loping deer; the cackling coyote; the sleepy bear; the tangling bramble; the moonlit clearing.
+
+*By the sea:* The echoing grotto; the spiteful tide; the high cliffs; the stinking tide pools; the silvery marsh; the breeze that caresses the reeds; the jetty where the dead are sent adrift; the venerable sturgeon; the soaring heron.
+
+*Where the sun bleaches bones:* The whipping sands; the shifting dunes; the river beneath the earth; the otherworldly mesa; the valley where great beasts lay down to die; the tantalizing mirage; the devious scorpion; the ensnaring spider.
+
+*In the shadows of great mountains:* The clouds wreathing the peaks; the bright summit; the snow blasting the slopes; the hot-tempered avalanche; the stone-pelting wind; the sheltered cave; the intractable goat.
+
+*Where water soaks the earth:* The deceitful bog-light; the bones in the mud; the sucking muck; the salubrious peat; the blood-sucking swarm; the blanketing fog; the bleached willow; the gawping fish; the choking stink.
+
+### What is Within their Power
+Every spirit's power is to be exactly what it is. The storm's power is to howl and thunder; the dust's to whirl, choke, and blind; the raven's to gossip and pilfer; the moonlit clearing's to offer shelter, serenity, and visions.
+
+### What Spirits Want
+In order of precedence, spirits want:
+1. To be entirely themselves.
+2. Whatever is owed to them.
+3. Everything a callous and desperate human will give them.
+4. To be left alone.
+
+**Offerings:** Anything offered in good faith to a spirit is received, whether it be thanks, food, valuables, or the priest's time and energy.
 
 Escalations
 - scourged
 - marked as an enemy
 
+### The Spirits' Wrath
+
 ## The Order's Discipline
 
-**If you're consulting these instructions for the first time, at the beginning of a session, or in between sessions:** Check the disciplinary measures below to see if the priest has already incurred the Order's discipline. If any measures marked "reported" with no further marks, you now have an additional duty to decide when and where the priest encounters the action itself, even if the player doesn't ask.
+**If it's your first time consulting these instructions, or you're consulting them at the beginning of a session, or in between sessions:** Check the disciplinary measures below to see if the priest has already incurred the Order's discipline. If any measures are marked "reported" with no further marks, you now have an additional duty to bring these measures to bear as soon as possible, within reason, even without the priest's asking.
 
 Otherwise, **if the priest has hazarded a transgression and risks the discipline of their Order,** use the rules below to determine if they bring it down.
 

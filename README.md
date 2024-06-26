@@ -27,6 +27,7 @@ From [my first journal:](journals/2024-06-17.md)
 ## Journals
 - [2024-06-17: Basic premise, big ideas, agency](journals/2024-06-17.md)
 - [2024-06-19: Informational asymmetry](journals/2024-06-19.md)
+- [fragment a: power and duty](journals/fragment-a.md)
 
 ## Why MDM?
 Look, I sat in on a roundtable on MDM and got excited and that's why I'm doing this. I'm not an expert or a spokesperson. But here's why I'm excited about it:
