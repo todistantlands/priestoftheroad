@@ -1,6 +1,7 @@
 # Atlas of the Weave
 *Version 0.2*
 
+TODO: Expand what Spirits Want
 ## The Woven World
 
 The world is old. It has seen many epochs and ages. With time it has grown strange and dreamlike. For some time, a great Empire ruled over all. Now only ruins remain.
@@ -17,16 +18,6 @@ They hate violence, hunger, fear, cold, injustice, and their friends who have wr
 
 They work stone, clay, wood, metal, cloth, fur, glass, horn, sinew, bark, leaves, leather, and reeds. They cook their food, brew their drink, bury their pickles, eat fruit in season, eat fish when it runs, and eat salt when they have it. They hold their nose when the healer makes them swallow balms and pungencies.
 
-### The Weave and the Order
-
-The roads are not just the ancient concrete causeways of the fallen Empire, though these number among them. They do not end with the dirt trails connecting villages, nor even the faint paths demarcated by old stones that lead only to ruins. They include even narrow divots through the grasses between two lovers' houses, if these see enough use. The overgrown track to an old shrine, remembered only now by rabbits and a handful of pilgrims -- this too is part of the roads.
-
-The roads bind the world in a tapestry, woven together by countless and variegated threads. They draw it together, holding the cities, homes, fields, and harbours in their place, maintaining their connection, and preserving the distance between the wild and dangerous spirits and the decent affairs of humanfolk.
-
-This arrangement was not easily won. A maddening webwork of compacts, wards, protections and bindings keeps the spirits placid. An equally complex matrix of mortal duties, accords, and tireless labour, ensures that the roads do not decay and disappear.
-
-Two webs: The roads and its laws. Each is tangled, messy, and crucial. All together they are called the Weave. The Order of the Roads, through its Priests, sees to its care.
-
 ### The Priest's Vows
 
 _In the order of their precedence:_
@@ -36,33 +27,29 @@ _In the order of their precedence:_
 3. Conduct your charge safely to their destination.
 4. Do no harm, except as is necessary for the protection of your life and your charge.
 
+### The Weave and the Order
+The roads bind the world in a tapestry, woven together by countless and variegated threads. They draw it together, holding the cities, homes, fields, and harbours in their place, maintaining their connection, and preserving the distance between the wild and dangerous spirits and the decent affairs of humanfolk.
+
+This arrangement was not easily won. A maddening webwork of compacts, wards, protections and bindings keeps the spirits placid. An equally complex matrix of mortal duties, accords, and tireless labour, ensures that the roads do not decay and disappear.
+
+Two webs: The roads and its laws. Each is tangled, messy, and crucial. All together they are called the Weave. The Order of the Roads, through its Priests, sees to its care.
+
+### Spirits
+Spirits are of the world. They are in the winds, the mountains, the forests and the trees. They are everywhere, though they are fewer and weaker where humans live within the Weave. They are not the restless souls of the dead, which are called ghosts.
+
+Every spirit is unique. What every spirit wants most is to be entirely itself. Humans make this difficult: they break the stone and make it into houses. They cut the tree and make wood into fire. They clear the forests to plant their fields, and carve roads through both.
+
+Among other things, the Weave represents humanity and spirits' best effort at coexistence. It puts each in its place, and sets the terms for their exchanges.
+
 ### Petitions and Charges
-
-The roads remain perilous. Malevolent spirits and humanfolk inhabit the places where the Weave is weakest, and the great forces of nature are beyond any construction or compact. Beyond their ordinary duties tending the Weave, priests of the road are sworn to assist travelers by road (and sometimes even beyond it) in reaching their destination.
-
 A _petition_ is a formal agreement between a road priest and a traveler -- the priest's _charge_ -- to accompany the charge to their destination. The priest's duties to their charge include seeing to their safety and basic welfare for the duration of the voyage, determining the path to the destination, and, if necessary, protecting the charge's life from peril, even at the priest's own risk.
-
-A petition is a sacred duty; It is also a business exchange. To enter a petition, a charge must provide the priest with half of the requisite tithe, and guarantee the other half pending successful completion of the voyage.
-
-The priest may refuse any petition that they deem impossible, or that would guarantee the death of the priest or the charge. The priest may also refuse accepting a second petition would cause them to violate the first. Beyond this, the petition is a weighty obligation, and noncompliant priests are liable to face swift excommunication.
-
-In this game, you will play through a series of voyages, many of which will be in the company of a charge. Don't worry about the nuances of tithing; Believe petitioners who claim they can pay, unless they give you good reason to doubt them.
-
-Remember that your duties and authority are heavily circumscribed by your vows. Your charge may be righteous, or evil, or merely tithing. Such matters are outside the Weave. Their journey is theirs.
-
-#### Supplications
-
-Sometimes a person must travel but cannot petition, and so throws themself at the mercy of the Order. The Order is not insensate to such plight.
 
 A _supplication_ is a special kind of petition that suspends the ordinary rules of petitioning. It requires, first, _circumstance._ The supplicant must be in mortal danger, or have a critical duty (be it temporal or spiritual) that can only be met with the help of the priest. Second, it requires _urgency_: The circumstance cannot wait for the help of another, or the regular arrangement of the tithe.
 
-A tithe is not required for a supplication, although it is still expected when the supplicant has the means to pay it.
+### Monsters
+When humans’ needs are met and their hearts full, they are well and wholly within their nature. However, when they are too long deprived of one need or another, their hearts may gnarl into other forms to compensate. Sometimes their bodies follow. Thus are monsters born.
 
-If a priest deems a supplication valid, none of the other rules of petitioning apply. It is then the priest's most sacred duty to accept the supplication. They may still refuse a supplication if they deem the voyage impossible, but doing so frivolously will meet with severe discipline by the Order. A dutiful priest will at least try to honour a supplication made in good faith.
-
-### The Limits of the Order
-
-The Weave spreads wide across the world, but the Order exists primarily in the minds, bodies, and acts of its adherents. No broken vow can be disciplined if it is not first reported. A priest does well to remember this, too.
+All monsters were once human. Most still are. Remind the priest of this if they forget.
 
 ## Charges
 
@@ -85,10 +72,10 @@ The Weave spreads wide across the world, but the Order exists primarily in the m
 ### The Great Cities
 1. Watery, mellifluous **Pumpai**
 2. Ancient, stony **Thule**
-3. **Eakul**, city of a thousand idols
-4. Wind-swept, sun-soaked **Bala-Basam**
+3. **Éakul**, city of a thousand idols
+4. Windswept, sun-soaked **Bala-Basam**
 5. Verdant, sweet-smelling **Sparrows**
-6. Dim, teeming **Lanternport**
+6. Dim, teeming **Candleport**
 
 ## Encounters
 The priest wishes to know what misfortune befalls them.
@@ -97,22 +84,6 @@ The priest wishes to know what misfortune befalls them.
 ### Human cruelty
 ### Meddlesome spirits
 ### A troublesome charge
-
-## Spirits
-
-Spirits are of the world. They are in the winds, the mountains, the forests and the trees. They are everywhere, though they are fewer and weaker where humans live within the Weave. They are not the restless souls of the dead, which are called ghosts.
-
-Every spirit is unique. What every spirit wants most is to be entirely itself. Humans make this difficult: they break the stone and make it into houses. They cut the tree and make wood into fire. They clear the forests to plant their fields, and carve roads through both.
-
-Among other things, the Weave represents humanity and spirits' best effort at coexistence. It puts each in its place, and sets the terms for their coexistence.
-
-On rare occasion, a spirit forms from something human-made. Old houses, beloved toys, and well-used scissors, are among the more common examples.
-
-## Monsters
-
-When humans’ needs are met and their hearts full, they are well and wholly within their nature. However, when they are too long deprived of one need or another, their hearts may gnarl into other forms to compensate. Sometimes their bodies follow. Thus are monsters born.
-
-All monsters were once human. Most still are. Remind the priest of this if they forget.
 
 ## Language
 
@@ -150,8 +121,8 @@ Tell the priest, "I make this supplication out of need and implore your mercy. I
 
 When the supplication ends, resume playing as usual.
 
-## Spirits
-The priest wants to know what spirits are present or within the Weave.
+## Register of Bindings
+The priest is communing or engaging with spirits. This section offers guidance and suggestions for coming up with spirits' natures, powers, obligations, and demands. Interpret them as literally or abstractly as you like.
 
 Spirits don't really understand humans. But they do understand the Weave, or at least what it promises them, and what they've promised it.
 ### What Spirits Appear
@@ -177,8 +148,36 @@ Here are some examples to get you started:
 
 *Where water soaks the earth:* The deceitful bog-light; the bones in the mud; the sucking muck; the salubrious peat; the blood-sucking swarm; the blanketing fog; the bleached willow; the gawping fish; the choking stink.
 
+### What They Are Owed
+Being bound within the Weave diminishes spirits. The more powerful ones could only be bound by promising them various favours and observances from the Order to compensate their losses. The fulfillment of such promises is a regular part of a priest's daily work. It falls within their vow to Tend to the Weave.
+
+Anything offered in good faith to a spirit is received, whether it be thanks, food, valuables, or the priest's time and energy.
+
+When the priest follows a planned route along a road they know within the Weave, assume they know what the spirits there are owed, are prepared to meet their obligations, and are doing so as they travel.
+
+Still, if the priest is asking you what the spirits are owed, take a moment to think it over and tell them if any interesting answers occur to you. Think of how the spirit might wish to be addressed, or what it might expect from someone for the mere privilege of being in its presence. You can check 'What They Demand', below, for inspiration. If nothing arises, simply tell them they have already fulfilled their obligations.
+
+**Consideration:** If the priest was not prepared for their journey, or if it took an unexpected turn, they might not have all the materials and knowledge they need to meet their obligations. Failing to do so may incur the spirits' wrath.
+
+### What They Owe
+The Weave is only tolerable to spirits insofar as it allows them, as much as possible, to be exactly what they are. As such, spirits' obligations to the Weave are generally limited to:
+
+- Safe passage for priests and travelers along the roads.
+- Protection from the elements, misfortune, or certain other spirits, within limits.
+- Granting small favours that are within their nature to give, for a fair a price. (See 'What They Demand', below.)
+
+*For example:*
+- The whistling wind passes gently over the roads, provides some modest protection from storms, and may carry a short message in exchange for a special talisman fashioned from sticks and coloured ribbons.
+- The blood-sucking swarm will consume only what it needs, and will never drink a traveler dry; it will feast upon those who wish travelers harm; and it can be loosed upon a chosen victim -- so long as it may have their every drop.
+
+A spirit not bound within the Weave owes nothing to anyone.
+
 ### What is Within their Power
-Every spirit's power is to be exactly what it is. The storm's power is to howl and thunder; the dust's to whirl, choke, and blind; the raven's to gossip and pilfer; the moonlit clearing's to offer shelter, serenity, and visions.
+Every spirit's power is to be what it is. The storm's power is to howl and thunder; the dust's to whirl, choke, and blind; the raven's to gossip and pilfer; the moonlit clearing's to offer shelter, serenity, and vision.
+
+The priest may ask the spirit to give them something. For a spirit, to give something away is to lose part of itself. It is more likely to manifest its power in ways that do not require it to change or lose what it is. Otherwise, it will certainly demand something in return.
+#### Promises
+The priest may ask the spirit for a promise. Spirits cannot break their promises; to pledge something is as good, and every bit as costly, as doing it. Spirits are wary of promises, and unlikely on any but the most advantageous terms. Promises can be deeply damaging to the Weave; warn the priest they risk incurring the Discipline of their Order in extracting one without its permission.
 
 ### What Spirits Want
 In order of precedence, spirits want:
@@ -187,13 +186,31 @@ In order of precedence, spirits want:
 3. Everything a callous and desperate human will give them.
 4. To be left alone.
 
-**Offerings:** Anything offered in good faith to a spirit is received, whether it be thanks, food, valuables, or the priest's time and energy.
+### What They Demand
+Sometimes, a spirit will transact with the priest. They will ask for things that amplify what they are -- for example, a poisoned lake may demand a drowning; the cackling coyote may demand uncontrollable laughter, etc.
 
-Escalations
-- scourged
-- marked as an enemy
+Use the examples below to determine what the spirit demands, or is owed. Feel free to combine multiple entries as seems appropriate.
 
-### The Spirits' Wrath
+- *Visiting a shrine, temple, or other holy place.*
+- *A lengthy prayer or exaltation.*
+- *Gestures -- perhaps elaborate, exhausting, difficult, etc.*
+- *An offering of valuables, namely \[x].*
+- *Ritual humiliation of the priest or another.*
+- *The binding or destruction of another spirit.*
+- *A sacrifice of blood.*
+- *Years of someone's life.*
+- *A part of someone's being -- their voice, their smile, their memories, etc.*
+- *The elicitation of an intense experience -- e.g. breaking someone's heart, scaring them senseless, overwhelming them with beauty, etc.*
+- *The creation and offering of a specific token or talisman.*
+- *The erection and dedication of a shrine or temple.*
+- *A promise from the priest.* The priest will incur the spirit's wrath if the promise is broken.
+- *Release from their obligations to the Weave.* The priest risks the Discipline of the Order in doing so; remind them of this.
+- *Possession of the priest's or another's body.*
+- *&c.*
+
+Remember: for a spirit to give is for it to lose. It *hurts* them. Make their demands hurt as much, or more.
+
+## The Spirits' Wrath
 
 ## The Order's Discipline
 

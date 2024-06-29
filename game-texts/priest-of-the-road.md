@@ -11,10 +11,6 @@
 
 ## The Priest
 
-_Right now this is doubling as a character sheet for playtesting my own Priest. –A_
-
-My priest's name is Aaio. He follows the Order of the Road, maintaining the Weave and accompanying voyagers. He is half elf; he has lived a long time and seen much, but still young in body and mind. He is sensitive, agile, but physically weak and a bit impulsive. He travels with a staff, a well-stocked pack, and his ritual implements. He is a bit lost, and uses the road as an excuse not to think too hard.
-
 ### The Priest's Vows
 
 _In the order of their precedence:_
@@ -27,23 +23,23 @@ _In the order of their precedence:_
 
 | Tally |               |
 | :---: | ------------- |
-| 0     | *Staunch*     |
-| 2     | *Spry*        |
-| 1     | *Disciplined* |
-| 3     | *Sensitive*   |
+|       | *Staunch*     |
+|       | *Spry*        |
+|       | *Disciplined* |
+|       | *Sensitive*   |
 
 ### Your Exertions
 
-| Tally | Value                           | Exert yourself...                                                                                                                                                                                            |
-| :---: | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 4     | Sensitive + 1                   | Intuitively, to grasp the nuances of a situation or person.                                                                                                                                                  |
-| 4     | Disciplined + Sensitive (min 3) | Devoutly, to perform the arts of your Order:  <br>  <br>- Study a voyage  <br>- Negotiate a Petition<br><br>- Commune with spirits  <br>- Incant wards and benedictions  <br>- Administer healing and succor |
-| 5     | Spry + Sensitive (min 3)        | Expertly, to undertake a journey.                                                                                                                                                                            |
-| 2     | Disciplined + 1                 | Authoritatively, to sway or command others                                                                                                                                                                   |
-| 3     | Spry + 1                        | Subtly, to pass or take action unremarked.                                                                                                                                                                   |
-| 1     | Staunch + 1                     | Physically, against the mass and momentum of an uncooperative or unsensible thing.                                                                                                                           |
-| 2     | Staunch + Spry                  | Violently, against an enemy.                                                                                                                                                                                 |
-| 2     | Staunch + Disciplined (min 2)   | Submit to circumstances in an effort to come out on your feet.                                                                                                                                               |
+| Tally | Value                           | Exert yourself...                                                                                                                                                                                         |
+| :---: | ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|       | Sensitive + 1                   | Intuitively, to grasp the nuances of a situation or person.                                                                                                                                               |
+|       | Disciplined + Sensitive (min 3) | Devoutly, to perform the arts of your Order:  <br>  <br>- Study a voyage  <br>- Negotiate a Petition<br>- Commune with spirits  <br>- Incant wards and benedictions  <br>- Administer healing or exorcism |
+|       | Spry + Sensitive (min 3)        | Expertly, to undertake a journey.                                                                                                                                                                         |
+|       | Disciplined + 1                 | Authoritatively, to sway or command others                                                                                                                                                                |
+|       | Spry + 1                        | Subtly, to pass or take action unremarked.                                                                                                                                                                |
+|       | Staunch + 1                     | Physically, against the mass and momentum of an uncooperative or unsensible thing.                                                                                                                        |
+|       | Staunch + Spry                  | Violently, against an enemy.                                                                                                                                                                              |
+|       | Staunch + Disciplined (min 2)   | Submit to circumstances in an effort to come out on your feet.                                                                                                                                            |
 
 ## Your Exertions
 ### Intuitively
@@ -112,7 +108,7 @@ Continue spending hits, asking the questions above, and asking whatever question
 
 …to sway or command others.
 
-To do this, you need only exhibit the symbols of your Order or otherwise remind someone of the status you hold and the privileges it accords.
+To do this, you need only exhibit the symbols of your Order or otherwise remind someone of the status you hold and the privileges it accords. You cannot exert your authority against spirits or animals, only humans.
 
 Tell your volunteers how you demonstrate your authority and what you want from the other person. Ask if that’s enough to persuade them. If not, roll. **On any hits**, you get a number of **chances**, one per hit. A chance is an angle for exploiting your authority, learning, and connections to put someone in their place or get what you want – something like:
 
@@ -125,7 +121,7 @@ Tell your volunteers how you demonstrate your authority and what you want from t
 **On a miss, or if none of your chances play out**, you can’t get your way. Ask your volunteers how they respond to your display.
 ### Subtly
 
-… to pass through your environment unnoticed or take action unremarked.
+…to pass through your environment unnoticed or take action unremarked.
 
 Tell your volunteers what you need to do, and ask them if anyone’s going to notice you or care. If nobody is, cool, carry on. If somebody is, though, you’d better roll. **On any hits,** you get a number of chances to escape attention, one chance per hit. A “chance” is something like:
 
@@ -139,7 +135,7 @@ You can invent your own chances. Take the first one that pans out.
 **On a miss,** or if none of your chances work out for you, tell your volunteers that well, you go for it anyway. Ask them who catches you and how they react.
 ### Physically
 
-… against the mass and momentum of an uncooperative or unsensible thing.
+…against the mass and momentum of an uncooperative or unsensible thing.
 
 Tell your volunteers what you do and what you’re hoping to accomplish. Ask them whether you can just do it, or do they want you to roll? Before you roll, you’re allowed to ask them what you can accomplish without rolling, if you want to.
 
@@ -155,10 +151,10 @@ But supposing it comes to a roll, consider these:
 
 **On a miss,** choose 1 that you are, and one that you definitely aren’t. Tell your volunteers that you’re adept enough, but you’re just plain not patient enough, or whatever, and ask them how it goes for you.
 
-Remember that your goal is to follow your ambitions into trouble. \\[TODO: <-- Revise] Embrace it and don’t hedge!
+Remember that your goal is to follow your ambitions into trouble. \[TODO: <-- Revise] Embrace it and don’t hedge!
 ### Violently
 
-… against an enemy.
+…against an enemy.
 
 First tell your volunteers how you’ve readied yourself for violence, then roll. **On any hits,** you get a number of chances to end the fight on your terms, one chance per hit. Choose from these or invent one:
 
@@ -174,7 +170,7 @@ Between chances, if you haven’t ended the fight, ask what your enemy does. Ans
 Or you can...
 ### Submit to Circumstances
 
-… instead of exerting yourself, just trying to come out on your feet.
+…instead of exerting yourself, just trying to come out on your feet.
 
 At the end of this, you’re going to ask your volunteers where you wind up and what state you’re in when you get there, but first roll. **On any hits,** choose one per hit:
 
@@ -216,7 +212,7 @@ Tell your volunteers the following, or ask them if you don’t know the answer:
 * I know the way to be \[x] (safe, perilous, wild, &c.)
 * I expect the journey will take \[x] (hours, a day, days, weeks, or months).
 
-…and anything else you think you know besides. Next, adjust your tally based on the conditions under which you study. Answer the following questions. If you don’t know an answer, show the options to your volunteers and ask.
+…and anything else you think you know besides. Next, adjust your tally based on the conditions under which you study. To do this, answer the following questions. If you don’t know an answer, show the options to your volunteers and ask.
 
 **How often have you frequented this land?**
 
@@ -249,7 +245,7 @@ Tell your volunteers the following, or ask them if you don’t know the answer:
 
 If your final tally is less than 1, roll 1 anyway. Note how many hits and misses you rolled.
 
-Finally, roll. Tell your volunteers you’re going to ask them some questions about the journey, and that you or they can declare at any time that you have reached the limit of what you know. For each **hit**, ask a question, beginning each question with “Between \[x] and [y]...”:
+Finally, roll. Tell your volunteers you’re going to ask them some questions about the journey, and that you or they can declare at any time that you have reached the limit of what you know. For each **hit**, ask a question, beginning each question with “Between \[x] and \[y]...”:
 
 * …what power has its seat? A lord, a wizard, a spirit, a monster, an army, or what?
 * …where do humans meet and go about their business?
@@ -266,7 +262,7 @@ Finally, roll. Tell your volunteers you’re going to ask them some questions ab
 
 Priests know the Weave well. You can ask as many questions about your volunteer’s answers as you like, but begin each question with “do I know…”, and remind them they can always answer no.
 
-On **no hits**, ask one question anyway. Then, tell your volunteers the journey gives you a sense of foreboding. Ask them why your intuition tells you that is.
+On a **miss**, ask one question anyway. Then, tell your volunteers the journey gives you a sense of foreboding. Ask them why your intuition tells you that is.
 
 Compare the number of hits you scored to the number of misses. **If you scored at least twice as many hits as misses:** Tell your volunteers you know the journey well, but the Weave is ever changing. **If you scored at least twice as many misses as hits:** Tell your volunteers there is much of this journey that eludes your knowledge, and ask them why that might be.
 
@@ -320,7 +316,7 @@ If no present spirits are within the Weave, or you know not whether any are pres
 * How can I get the spirits to do \[x]?
 * I recognize any spirits who are enemies or outcasts of the Weave. Which, if any, do I recognize here?
 
-On **no hits**, tell your volunteers you try to attune but can't. Maybe you lack discipline, some power interferes, the spirits are unfriendly, they abandon you, or there simply are none around. Ask if you suffer some form of backlash.
+On a **miss**, tell your volunteers you try to attune but can't. Maybe you lack discipline, some power interferes, the spirits are unfriendly, they abandon you, or there simply are none around. Ask if you suffer some form of backlash.
 ### Incant Wards and Benedictions
 
 Priests of the road know a variety of wards, benisons, and invocations to shield them in their travels and stave off danger. When you conjure a ward or benediction, describe what you wish it to do, and ask your volunteers the following questions, and note how many times they answer no:
@@ -352,43 +348,44 @@ On a **miss**, choose one:
 * Your invocation violates the Weave. Expect to be disciplined.
 * Your exertion is draining. Do not exert yourself again until you take the time to rest and recuperate, or it is mortally necessary. Perhaps not even then.
 
-### Administer Healing and Succor
+### Administer Healing or Exorcism
 
-…to treat wounds and afflictions, and ease the suffering of any being that yet lives.
+…to treat wounds and afflictions, ease the suffering of any being that yet lives, or expel a possessing spirit.
 
-Tell your volunteers you mean to administer healing and succor through magic and ordinary medicine. Show them the list below, and ask if them if you can.
-* _If the patient’s condition is untreatable or the work of foulest wizardry, or if the patient is already dead:_ Tell me I can’t help them, and tell me why.
-* _If the condition is minor, not very threatening, well within my means to treat, and would likely heal itself in time:_ Tell me I can, and do not need to roll.
+Tell your volunteers you mean to administer healing or exorcism through magic, prayer, and mundane medicine. Show them the list below, and ask if them if you can.
+* _If the condition is untreatable, the work of foulest wizardry or a very powerful spirit, or if the patient is already dead:_ Tell me I can’t help, and tell me why.
+* _If the condition is minor, not very threatening, well within my means to treat, and would likely resolve itself in time:_ Tell me I can, and do not need to roll.
 * _Otherwise_: Tell me it’s possible, but I must roll to see if it works.
 
-If healing is possible and you mean to try, tell your volunteers you get to work on the patient. Add 1 to your tally for each advantage that applies. If you don’t know whether an advantage applies, ask your volunteers.
-* You are well equipped to treat the patient.
-* You have all the time you could need.
-* You have the aid of skilled healers.
+If help is possible and you mean to try, tell your volunteers you get to work. Add 1 to your tally for each advantage that applies. If you don’t know whether an advantage applies, ask your volunteers.
+* You are well prepared to handle this situation.
+* You have all the time you could need, and more.
+* You have the aid of those with relevant skills.
 * You have the help of spirits.
 
 Before or after rolling, you can ask your volunteers:
 * I’ll work myself to exhaustion, drawing on my own spiritual power if necessary. Does it help? _Either way, do not exert yourself again until you take the time to rest and recuperate, or it is mortally necessary. Perhaps not even then._
 * I’ll call upon every spirit I know of and some that I don’t to help me, at the risk of violating the Weave. Does any answer? _Either way, tell your volunteers you may have provoked the wrath of spirits or the discipline of your Order._
-* I’ll sacrifice the patient’s \[x] to pull this off. Does it help? _Either way, the sacrifice is made, and is beyond your art to fix._
+* I’ll sacrifice \[x] to pull this off. Does it help? _If administering healing, the sacrifice must be something of the patient's. The sacrifice is made whether or not it helps, and is beyond your art to repair. You may ask this question multiple times, making a new sacrifice each time._
 
 For each time they say yes, add 1 to your tally, rolling immediately if you already rolled.
 
 Now, roll. Subtract 1 hit for each obstacle that applies. If you don’t know, ask your volunteers.
 
-* The condition is severe, complex, or perilous.
-* The condition is wizardous in nature.
-* Your equipment is less than ideal for the task.
-* You don’t have as much time as you should.
-* The circumstances make the task much more complex than it should be.
+* The condition is severe, complex, or perilous to those it affects.
+* The condition is wizardous or spiritual in nature.
+* You are ill prepared or underequipped.
+* You don't have enough time and must act with haste.
+* The circumstances are chaotic and interfere with your ministration.
 
-On **any hits**, the healing goes as well as you could hope. Ask your volunteers how the treatment goes, and how the patient makes out.
+On **any hits**, it goes as well as you could hope. Ask your volunteers what happens.
 
-On **no hits**, or if you have no dice to roll, choose one:
+On a **miss**, or if you have no dice to roll, choose one:
 
-* You quickly realize you can’t help the patient. Tell your volunteers this, and what you do next.
-* Tell your volunteers it looks bad and the healing might not work, but you have to try anyway. Ask them whether the healing works, and how the patient makes out.
+* You realize it's hopeless. Tell your volunteers this, and what you do next.
+* Tell your volunteers it looks bad and this might not work, but you have to try anyway. Ask them whether you succeed, and what happens next.
 
+**Against a spirit:** If you are exorcising a spirit, tell your volunteers they can consult the 'Register of Bindings' in the *Atlas of the Weave* to determine its nature and powers. Tell them you are certain to incur the spirit's wrath if you fail. If you succeed, remind them that an exorcised spirit is merely cast out of the body it possessed; ask them what it does next.
 ## Spawning Circumstances
 
 When you begin a new session, if you've played this game before and risked your Order's discipline, tell your volunteers to check 'The Order's Discipline' in the *Atlas of the Weave*. Ask them if you incurred any disciplinary measures between sessions before choosing your spawning circumstance.
@@ -401,14 +398,15 @@ Many charges are shifty, troublesome, or clearly compromised. When you choose on
 * My charge is a petty noble hounded by a blood feud with their sibling. I escort them to a country inn where they hope to settle the affair. I fear this will end in bloodshed.
 * Someone wracked with illness pressed a newborn child into my arms and with their dying breaths supplicated me take the infant to the Priestess of the Tower of the Twinned Serpents - an arduous journey that will take weeks, at least.
 * A sullen adventurer needs my help locating a shrine buried deep in an ancient forest. They carry a large, lumpy parcel under their cloak, of which they refuse to speak.
-* A dear old friend is embarking on a long sea voyage and bids me take them to the great port. The route is circuitous and scarcely peopled, at their insistence. I sense there's something they want to tell me. _If you have a dear old friend in mind, tell your volunteers. _
-* The charge is jovial, hardy, resourceful, and makes excellent traveling company. We embarked on a voyage over thickly wooded mountains to reach a trading post on the other side. Halfway through, I awake to find myself alone in our camp with no sign of my charge.
+* A dear old friend is embarking on a long sea voyage and bids me take them to the great port. The route is circuitous and scarcely peopled, at their insistence. I sense there's something they want to tell me. _If you have a dear old friend in mind, tell your volunteers about them. Otherwise, ask._
+* The charge is jovial, hardy, resourceful, and makes excellent traveling company. We embarked on a voyage over thickly wooded mountains to reach a trading post on the other side. Halfway along, I awake to find myself alone in our camp with no sign of my charge.
 * My client is a nervous and reedy noble of little standing and dire prospect – or so they thought. They have just inherited the estate of a distant relation and petition me to take them there.
 
 **Without a charge**
 * I have come to a boarding house along a remote stretch of road to renew its aging wards, only to find them utterly destroyed. There is no telling what malice spirits may have wrought upon it now it's slipped from the Weave. What scene greets me when I enter?
 
 ## Appendix: Joining in Another’s Quest
+*BIG WIP, extremely unfinished. -A*
 
 The Priest of the Road can act as a Companion to any game in the _Wizard’s Grimoire_ series by D. Vincent Baker and Meguey Baker. When you join one of these games, it’s usually as a Companion to its lead character, such as the conjurer, the barbarian, the thief and necromancer, etc. You might even join alongside another Companion.
 
