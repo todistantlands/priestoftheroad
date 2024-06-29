@@ -9,26 +9,26 @@
 - [Spawning Circumstances](#Spawning%20Circumstances)
 - [Appendix: Joining in Another’s Quest](#Appendix:%20Joining%20in%20Another%E2%80%99s%20Quest)
 
-## The Priest
-
-### The Priest's Vows
-
+## Your Vows
 _In the order of their precedence:_
 1. Tend to the Weave.
 2. Accept such petitions and supplications as are possible.
 3. Conduct your charge safely to their destination.
 4. Do no harm, except as is necessary for the protection of your life and your charge.
 
-### Qualities
+## You & Your Qualities
+You are a wandering priest, sworn to protect the roads and their travelers from misfortune, the elements, and spirits. What's your name? What are your pronouns?
 
-| Tally |               |
-| :---: | ------------- |
-|       | *Staunch*     |
-|       | *Spry*        |
-|       | *Disciplined* |
-|       | *Sensitive*   |
+You are, yourself, staunch, spry, disciplined, and sensitive, in measure. Answer the following questions, and keep a running tally.
 
-### Your Exertions
+1. *Imagine you are traveling a back road when highwaymen appear and demand you hand over your valuables or surrender your life. Will you persuade them to stand down by reminding them of your status, or force them back with blows from your staff? If the former, tally 1 to **disciplined.** If the latter, tally 1 to **staunch**.*
+2. *Imagine you and your charge are waylaid by a spirit-conjured storm. Will you guide your charge along a precipitous cliffside to avoid the storm, or work a difficult incantation in the hopes of rebuffing it? If the former, tally 1 to **spry**. If the latter, talley 1 to **disciplined**.*
+3. *Imagine a desperate client petitions your aid on a journey. The job is easy and they can amply afford the tithe, but they seem shifty and you worry they intend evil at their destination. Will you accept their pay and give them the benefit of the doubt, or go with your gut and refuse them, at the risk of your reputation? If the former, tally 1 to **disciplined**. If the latter, tally 1 to **sensitive**.*
+4. *Imagine a spider-spirit has you ensnared in its forest maze. How will you escape? Will you weave your way around its many traps, or seek to bargain with it to let you go? If the former, tally 1 to **spry**. If the latter, tally 1 to **sensitive.***
+5. *Imagine a bitter winter cold slows your journey and bites at your skin. You are exhausted, night is falling, and there are still miles to go to the nearest shelter. Will you press on through the dark in search of warmth, or will you endure the elements and make a bed in the snow? If the former, tally 1 to **spry**. If the latter, tally 1 to **staunch**.*
+6. *Imagine you are hiking through the mountains when your charge is afflicted by a spiritual blight that enfeebles their legs. To heal them here could exhaust your powers and expose you both to further spiritual dangers. Will lend them your shoulder and staff and carry them along their way, or accept the risks and attempt to heal them as best you can. If the former, tally 1 to **staunch**. If the latter, tally 1 to **sensitive**.*
+
+## Your Qualities & Your Exertions
 
 | Tally | Value                           | Exert yourself...                                                                                                                                                                                         |
 | :---: | ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -40,7 +40,35 @@ _In the order of their precedence:_
 |       | Staunch + 1                     | Physically, against the mass and momentum of an uncooperative or unsensible thing.                                                                                                                        |
 |       | Staunch + Spry                  | Violently, against an enemy.                                                                                                                                                                              |
 |       | Staunch + Disciplined (min 2)   | Submit to circumstances in an effort to come out on your feet.                                                                                                                                            |
+|       |                                 |                                                                                                                                                                                                           |
+## Your Tools
+You have a number of tools to help you on your journeys. You begin the game with the following four:
 
+- *Your staff: A trusty walking stick that can serve as a weapon in a pinch.*
+- *Your knowledge of the Weave, which you can draw upon to recall the laws, customs, and spirits of the places you travel.*
+- *Your pack, stocked with provisions, ritual implements, and some light camping gear.*
+- *Your robe, signifying your membership and rank in the Order.*
+- *Your purse, with enough coin to last you through this next journey.*
+
+As you play, you may gain or lose tools.
+
+When you exert yourself, you can bring your tools to bear in a variety of ways. Look them up on your character sheet.
+
+## Your Goal in the Game
+Your goal, as player of the game is to follow the road wherever it leads you, honour your vows as a Priest of the Road, and try to do the right thing in the end -- whatever that means to you.
+
+The rules of the game won't keep you safe in your travels, exactly, but they'll always keep you alive and free to roam. You never need to act to avoid danger. The road is yours!
+
+## Volunteers, Sessions, & Getting Started
+Once you’ve named yourself, tallied your qualities, and rated your exertions, you’re ready to begin play.
+
+Play the game in “sessions,” each a short episode in which you take on some charge or job from the Order, follow the road wherever it leads you, and maybe do the right thing in the end.
+
+For each session, you'll need to find two friend who'll volunteer to play against you. They can be different volunteers each time; it's your responsibility to bring them up to speed and give them what they need to play. Be sure to hand them the *Atlas of the Weave*, and to give them each a copy of the "Volunteer's Guide" (coming soon!) and "The Woven World."
+
+Each session begins with a spawning circumstance. You choose your spawning circumstance from a list, then explain it to the volunteers to start the session.
+
+At the end of the session, be sure to get the *Atlas of the Weave* back from your volunteers, so that you can resume your journeys again.
 ## Your Exertions
 ### Intuitively
 

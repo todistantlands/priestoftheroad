@@ -46,11 +46,6 @@ A _petition_ is a formal agreement between a road priest and a traveler -- the p
 
 A _supplication_ is a special kind of petition that suspends the ordinary rules of petitioning. It requires, first, _circumstance._ The supplicant must be in mortal danger, or have a critical duty (be it temporal or spiritual) that can only be met with the help of the priest. Second, it requires _urgency_: The circumstance cannot wait for the help of another, or the regular arrangement of the tithe.
 
-### Monsters
-When humans’ needs are met and their hearts full, they are well and wholly within their nature. However, when they are too long deprived of one need or another, their hearts may gnarl into other forms to compensate. Sometimes their bodies follow. Thus are monsters born.
-
-All monsters were once human. Most still are. Remind the priest of this if they forget.
-
 ## Charges
 
 ### Names
