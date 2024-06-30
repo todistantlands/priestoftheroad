@@ -1,7 +1,5 @@
 # Atlas of the Weave
 *Version 0.2*
-
-TODO: Expand what Spirits Want
 ## The Woven World
 
 The world is old. It has seen many epochs and ages. With time it has grown strange and dreamlike. For some time, a great Empire ruled over all. Now only ruins remain.
@@ -17,6 +15,8 @@ Human beings love to have full bellies, warm rugs, sweet sad music, and their lo
 They hate violence, hunger, fear, cold, injustice, and their friends who have wronged them.
 
 They work stone, clay, wood, metal, cloth, fur, glass, horn, sinew, bark, leaves, leather, and reeds. They cook their food, brew their drink, bury their pickles, eat fruit in season, eat fish when it runs, and eat salt when they have it. They hold their nose when the healer makes them swallow balms and pungencies.
+
+They create polities no bigger than city-states, usually, and usually no longer-lived than dynasties. The greatest and the least usually eat grain from the same fields and hunt ducks on the same rivers.
 
 ### The Priest's Vows
 
@@ -57,8 +57,6 @@ A _supplication_ is a special kind of petition that suspends the ordinary rules 
 - Calen
 - Rovie
 - Tiffel
-### Appearances
-
 ### Their Hands
 
 ### Reasons to Voyage
@@ -206,6 +204,33 @@ Use the examples below to determine what the spirit demands, or is owed. Feel fr
 Remember: for a spirit to give is for it to lose. It *hurts* them. Make their demands hurt as much, or more.
 
 ## The Spirits' Wrath
+The priest is tempting the spirits' wrath and wants to know if it falls upon them. Choose one of the entries with the other volunteer and interpret it as the basis for you answer.
+
+Generally, if some of the entries have more marks and other entries have fewer, choose one with fewer marks. Mark the entry you’ve used.
+
+Remember that every spirit's power is to be exactly what it is. If you're unsure what to choose, just pick the option that best fits the spirit's nature.
+
+- The spirit lashed out at its victim with raw fury, tearing, biting, burning, blasting, etc.
+  *Marks:* O O O O O
+- The spirit scourges its victim with pox, rot, or some other physical affliction. The effects are severe, debilitating, and spread rapidly.
+  *Marks:* O O O O O
+- The spirit carries its victim somewhere far away, to the mercy of the elements, or whatever evil will or magic dwells there.
+  *Marks:* O O O O O
+- The spirit takes away something of the victim's self -- their face, their voice, their memories, etc.
+  *Marks:* O O O O O
+- The spirit overwhelms the victim's senses, incapacitating them.
+  *Marks:* O O O O O
+- The spirit seizes upon the victim's body in an attempt to possess it.
+  *Marks:* O O O O O
+- The spirit marks the victim as an enemy; its allies in the region and beyond will descend upon them without hesitation.
+  *Marks:* O O O O O
+- The spirit changes the victim's shape, rendering them vile, misshapen, or simply weaker.
+  *Marks:* O O O O O
+- The spirit afflicts the victim with a ruinsome curse -- e.g. their touch turns things to dust, a storm follows in their footsteps, nightmares fill every house in which they sleep, etc.
+  *Marks:* O O O O O
+- The spirit prevents the victim from ever feeling a certain kind of satisfaction -- e.g. fullness of belly, slake of thirst, rest, love, lust, etc.
+  *Marks:* O O O O O
+- Draw upon your knowledge of spirits to make your own.
 
 ## The Order's Discipline
 

@@ -14,6 +14,8 @@ They hate violence, hunger, fear, cold, injustice, and their friends who have wr
 
 They work stone, clay, wood, metal, cloth, fur, glass, horn, sinew, bark, leaves, leather, and reeds. They cook their food, brew their drink, bury their pickles, eat fruit in season, eat fish when it runs, and eat salt when they have it. They hold their nose when the healer makes them swallow balms and pungencies.
 
+They create polities no bigger than city-states, usually, and usually no longer-lived than dynasties. The greatest and the least usually eat grain from the same fields and hunt ducks on the same rivers.
+
 ## The Priest's Vows
 
 _In the order of their precedence:_

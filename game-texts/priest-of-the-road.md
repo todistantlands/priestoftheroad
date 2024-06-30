@@ -3,11 +3,15 @@
 
 **Table of Contents**
 
-- [The Priest](#The%20Priest)
+- [Your Vows](#Your%20Vows)
+- [You & Your Qualities](#You%20&%20Your%20Qualities)
+- [Your Qualities & Your Exertions](#Your%20Qualities%20&%20Your%20Exertions)
+- [Your Tools](#Your%20Tools)
+- [Your Goal in the Game](#Your%20Goal%20in%20the%20Game)
+- [Volunteers, Sessions, & Getting Started](#Volunteers,%20Sessions,%20&%20Getting%20Started)
 - [Your Exertions](#Your%20Exertions)
 - [The Arts of your Order](#The%20Arts%20of%20your%20Order)
 - [Spawning Circumstances](#Spawning%20Circumstances)
-- [Appendix: Joining in Another’s Quest](#Appendix:%20Joining%20in%20Another%E2%80%99s%20Quest)
 
 ## Your Vows
 _In the order of their precedence:_
@@ -40,7 +44,7 @@ You are, yourself, staunch, spry, disciplined, and sensitive, in measure. Answer
 |       | Staunch + 1                     | Physically, against the mass and momentum of an uncooperative or unsensible thing.                                                                                                                        |
 |       | Staunch + Spry                  | Violently, against an enemy.                                                                                                                                                                              |
 |       | Staunch + Disciplined (min 2)   | Submit to circumstances in an effort to come out on your feet.                                                                                                                                            |
-|       |                                 |                                                                                                                                                                                                           |
+
 ## Your Tools
 You have a number of tools to help you on your journeys. You begin the game with the following four:
 
@@ -432,20 +436,3 @@ Many charges are shifty, troublesome, or clearly compromised. When you choose on
 
 **Without a charge**
 * I have come to a boarding house along a remote stretch of road to renew its aging wards, only to find them utterly destroyed. There is no telling what malice spirits may have wrought upon it now it's slipped from the Weave. What scene greets me when I enter?
-
-## Appendix: Joining in Another’s Quest
-*BIG WIP, extremely unfinished. -A*
-
-The Priest of the Road can act as a Companion to any game in the _Wizard’s Grimoire_ series by D. Vincent Baker and Meguey Baker. When you join one of these games, it’s usually as a Companion to its lead character, such as the conjurer, the barbarian, the thief and necromancer, etc. You might even join alongside another Companion.
-
-Your company is not permanent. The Priest weaves in and out of these characters’ lives, joining and parting as fate and opportunity dictate.
-
-### Modifying Spawning Circumstances
-
-The first time you begin a session in the company of one of these characters, tell them to choose a spawning circumstance as usual, but that they need your help to reach it. After they tell you their choice, but before they ask your volunteers any questions, choose a modifier below, addressing any questions to the other character rather than your volunteers.
-
-Tell everyone how you are modifying the spawning circumstance to start play.
-
-\[LIST]
-
-### Exiting and Entering the Scene
