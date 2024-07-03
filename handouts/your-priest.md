@@ -15,7 +15,7 @@ _In the order of their precedence:_
 - Honour your vows.
 - Try to do the right thing, whatever that means to you.
 
-### Qualities
+### Your Qualities
 
 | Tally |               |
 | :---: | ------------- |
@@ -24,24 +24,23 @@ _In the order of their precedence:_
 |       | *Disciplined* |
 |       | *Sensitive*   |
 
-## Exertions
-
-| Tally | Value                           | Exert yourself...                                                                                                                                                                                         |
-| :---: | ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|       | Sensitive + 1                   | Intuitively, to grasp the nuances of a situation or person.                                                                                                                                               |
-|       | Disciplined + Sensitive (min 3) | Devoutly, to perform the arts of your Order:  <br>  <br>- Study a voyage  <br>- Negotiate a Petition<br>- Commune with spirits  <br>- Incant wards and benedictions  <br>- Administer healing or exorcism |
-|       | Spry + Sensitive (min 3)        | Expertly, to undertake a journey.                                                                                                                                                                         |
-|       | Disciplined + 1                 | Authoritatively, to sway or command others                                                                                                                                                                |
-|       | Spry + 1                        | Subtly, to pass or take action unremarked.                                                                                                                                                                |
-|       | Staunch + 1                     | Physically, against the mass and momentum of an uncooperative or unsensible thing.                                                                                                                        |
-|       | Staunch + Spry                  | Violently, against an enemy.                                                                                                                                                                              |
-|       | Staunch + Disciplined (min 2)   | Submit to circumstances in an effort to come out on your feet.                                                                                                                                            |
+## Your Exertions
+| Rating | Value                           | Exert yourself...                                                                                                                                                                                         |
+| :----: | ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|        | Sensitive + 1                   | Intuitively, to grasp the nuances of a situation or person.                                                                                                                                               |
+|        | Disciplined + Sensitive (min 3) | Devoutly, to perform the arts of your Order:  <br>  <br>- Study a voyage  <br>- Negotiate a Petition<br>- Commune with spirits  <br>- Incant wards and benedictions  <br>- Administer healing or exorcism |
+|        | Spry + Sensitive (min 3)        | Expertly, to undertake a journey.                                                                                                                                                                         |
+|        | Disciplined + 1                 | Authoritatively, to sway or command others                                                                                                                                                                |
+|        | Spry + 1 (max 4)                | Subtly, to pass or take action unremarked.                                                                                                                                                                |
+|        | Staunch + 1                     | Physically, against the mass and momentum of an uncooperative or unsensible thing.                                                                                                                        |
+|        | Staunch + Spry (max 5)          | Violently, against an enemy.                                                                                                                                                                              |
+|        | Staunch + Disciplined           | Submit to circumstances in an effort to come out on your feet.                                                                                                                                            |
 
 ## Tools
 - **Your staff:** A trusty walking stick that can serve as a weapon in a pinch.
 	- **Exert yourself violently:** When you "do *\[x]*", *\[x]* can include striking and fending off blows with your staff.
 - **Your knowledge of the Weave.**
-	- **At any time:** You can ask your volunteers what your training has taught you about the laws, customs, and spirits of the places you visit.
+	- **Asking what you see and hear:** You can also ask your volunteers what your training has taught you about the laws, customs, and spirits of the places you visit.
 	- **While following a road:** You are never truly lost, only delayed, and can find your way to any known place along a road.
 	- **On a planned voyage,** as long as you aren't lost: You can ask your volunteers
 - **Your pack,** stocked with:

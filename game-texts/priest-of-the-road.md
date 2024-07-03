@@ -1,18 +1,17 @@
 # The Priest of the Road
-*Version 0.1*
+*Game Jam Edition*
 
-**Table of Contents**
+## Introduction: The Weave and the Order of the Road
 
-- [Your Vows](#Your%20Vows)
-- [You & Your Qualities](#You%20&%20Your%20Qualities)
-- [Your Qualities & Your Exertions](#Your%20Qualities%20&%20Your%20Exertions)
-- [Your Tools](#Your%20Tools)
-- [Your Goal in the Game](#Your%20Goal%20in%20the%20Game)
-- [Volunteers, Sessions, & Getting Started](#Volunteers,%20Sessions,%20&%20Getting%20Started)
-- [Your Exertions](#Your%20Exertions)
-- [The Arts of your Order](#The%20Arts%20of%20your%20Order)
-- [Spawning Circumstances](#Spawning%20Circumstances)
+The roads are not just the ancient concrete causeways of the fallen Empire, though these number among them. They do not end with the dirt trails connecting villages, nor even the faint paths demarcated by old stones that lead only to ruins. They include even narrow divots through the grasses between two lovers' houses, if these see enough use. The overgrown track to an old shrine, remembered only now by rabbits and a handful of pilgrims -- this too is part of the roads.
 
+The roads bind the world in a tapestry, woven together by countless and variegated threads. They draw it together, holding the cities, homes, fields, and harbours in their place, maintaining their connection, and preserving the distance between the wild spirits and the affairs of humans.
+
+This arrangement was not easily won. A maddening webwork of compacts, wards, protections and bindings keeps the spirits placid. An equally complex matrix of mortal duties, accords, and tireless labour, ensures that the roads do not decay and disappear.
+
+Two webs: The roads and their rules. Each is tangled, messy, and crucial. All together they are called the Weave. The Order of the Roads, through its Priests, sees to its care.
+
+You are one such Priest.
 ## Your Vows
 _In the order of their precedence:_
 1. Tend to the Weave.
@@ -34,16 +33,18 @@ You are, yourself, staunch, spry, disciplined, and sensitive, in measure. Answer
 
 ## Your Qualities & Your Exertions
 
-| Tally | Value                           | Exert yourself...                                                                                                                                                                                         |
-| :---: | ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|       | Sensitive + 1                   | Intuitively, to grasp the nuances of a situation or person.                                                                                                                                               |
-|       | Disciplined + Sensitive (min 3) | Devoutly, to perform the arts of your Order:  <br>  <br>- Study a voyage  <br>- Negotiate a Petition<br>- Commune with spirits  <br>- Incant wards and benedictions  <br>- Administer healing or exorcism |
-|       | Spry + Sensitive (min 3)        | Expertly, to undertake a journey.                                                                                                                                                                         |
-|       | Disciplined + 1                 | Authoritatively, to sway or command others                                                                                                                                                                |
-|       | Spry + 1                        | Subtly, to pass or take action unremarked.                                                                                                                                                                |
-|       | Staunch + 1                     | Physically, against the mass and momentum of an uncooperative or unsensible thing.                                                                                                                        |
-|       | Staunch + Spry                  | Violently, against an enemy.                                                                                                                                                                              |
-|       | Staunch + Disciplined (min 2)   | Submit to circumstances in an effort to come out on your feet.                                                                                                                                            |
+You are able, as are all living things, to exert yourself upon your surroundings, against your enemies, and alongside your allies.
+
+You begin the game with 7 named and rated Exertions, plus Submission, as follows.
+
+- *You may exert yourself **intuitively** to grasp the nuances of a situation or person. Your rating is equal to your **sensitive** tally, plus 1.*
+- *You may exert yourself **devoutly** to perform the arts of your order.  As play begins, you have access to five arts: study a voyage, negotiate a Petition, commune with spirits, incant wards and benedictions, and administer healing or exorcism. Your rating is equal to you **disciplined** tally plus your **sensitive** tally, but with a minimum of 3.*
+- *You may exert yourself **expertly** to undertake a journey over land. Your rating is equal to your **spry** tally plus your **sensitive** tally, but with a minimum of 3.*
+- *You may exert yourself **authoritatively** to sway or command others. Your rating is equal to your **disciplined** tally, plus 1.*
+- *You may exert yourself **subtly** to pass or take action unremarked. Your rating is equal to your **spry** tally, plus 1, but with a maximum of 4.*
+- *You may exert yourself **physically**, against the mass and momentum of an uncooperative or unsensible thing. Your rating is equal to you **staunch** tally, plus 1.*
+- *You may exert yourself **violently**, against an enemy. Your rating is equal to your **staunch** tally plus your **spry** tally, but with a maximum of 5.*
+- *And finally, when you choose not to exert yourself, you **submit to circumstance** and just try to come out on your feet. Your rating is equal to your **staunch** tally plus your **disciplined** tally.*
 
 ## Your Tools
 You have a number of tools to help you on your journeys. You begin the game with the following four:
@@ -73,12 +74,60 @@ For each session, you'll need to find two friend who'll volunteer to play agains
 Each session begins with a spawning circumstance. You choose your spawning circumstance from a list, then explain it to the volunteers to start the session.
 
 At the end of the session, be sure to get the *Atlas of the Weave* back from your volunteers, so that you can resume your journeys again.
+
+## The Fundamentals of the Game
+
+**1. Ask your volunteers what you see and hear.**
+
+Ask them who’s present, what they’re doing, and what’s going on.
+
+Answer your volunteers’ questions in turn, if they happen to have any.
+
+Don’t wait for them to tell you, spontaneously, what it’s like, who’s there, what they’re doing, how it looks, where you might go, who’s paying attention to you, who isn’t. Whatever you’re curious about, whatever you need to know in order to decide what to do, ask.
+
+It’s not their job to say anything at all, if you don’t ask!
+
+**2. Say what you do, and ask what happens.**
+
+The basic interaction of the game is:
+
+- Say what you do.
+- Ask your volunteers what happens.
+
+It’s up to you to take the active role in the conversation. Tell your volunteers where you go and what you do, and then ask them what you see, what you find, how people react to you, who resists you, what they say, and what happens.
+
+**3. Exert yourself.**
+
+Going back and forth asking and answering questions is fine for as long as you want to do it, but exerting yourself drives the game and gives both you and your volunteers more to work with.
+
+Your volunteers aren’t responsible for knowing your exertions or prompting you to do them. That’s all on you.
+
+Learn your exertions and don’t wait passively, make opportunities and seize them!
+## Ending a Session
+
+Either you or your volunteers can end the session any time, for any reason or none, without worrying about how abrupt it might be.
+
+Your goal in the game is to follow the road wherever it leads you, honour your vows as a Priest of the Road, and try to do the right thing in the end. You can use this as an outline for a session, if you want, when it works out that way: end the session when you’ve completed a journey, had your vows tested, and tried to do the right thing.
+
+## Between Sessions
+
+Between sessions, you’re allowed to re-tally your qualities and change your ratings, if you want to. Just go back to the quality-defining questions in character creation. Answer them anew from your current mindset, and recalculate your exertion ratings accordingly.
+
+## Summary
+- *You are a wandering priest, sworn to protect the roads and their travelers from misfortune, the elements, and spirits.*
+- *You're **staunch**, **spry**, **disciplined**, and **sensitive**. You can exert yourself **intuitively**, **devoutly**, **expertly**, **authoritatively**, **subtly**, **violently**, and with the **arts of your Order**. You can choose not to exert yourself, but **submit to circumstance** instead. You also have **tools** to bring to bear when you exert yourself.*
+- *Your goal in the game is to follow the road wherever it leads you, honour your vows as a Priest of the Road, and try to do the right thing in the end -- whatever that means to you.*
+- *To play, you need two volunteers to play against you. It's your job to give them everything they need in order to play. Give them the "Volunteer's Guide" and "Woven World" handouts, and the* Atlas of the Weave.
+- *The fundamentals of the game are, first, to ask your volunteers questions; second, to tell your volunteers what you do and ask them what happens; and third; to take opportunities to exert yourself.*
+- *You play the game in sessions. Open a session with a spawning circumstance, and end it whenever you want.*
+- *Any of you can end the session at any time, for any reason or none, without worrying about how abrupt it might be.*
+- *Between sessions you can change your qualities and the ratings for exertions.*
 ## Your Exertions
 ### Intuitively
 
-…to grasp the nuances of a situation, including the thoughts and states of the people within it.
+…to grasp the nuances of a situation, including the thoughts and states of the people within it. You can be involved in the situation, observing it from without, or even just remembering it.
 
-Ajshdhduid \[TODO] and **roll.** On **any hits**, tell your volunteers you're going to ask them some questions about the situation you're observing. Ask one question for each hit:
+Tell your volunteers what you're doing, and that you're going to ask them some questions. Roll. On **any hits**, you can ask any questions about what you can directly observe -- as always -- and you can keep interacting naturally, interspersing questions as you like. But you can also ask your volunteers questions about what your intuition reveals about the situation, including what others are thinking or feeling.
 
 **About a situation**
 
@@ -183,7 +232,7 @@ But supposing it comes to a roll, consider these:
 
 **On a miss,** choose 1 that you are, and one that you definitely aren’t. Tell your volunteers that you’re adept enough, but you’re just plain not patient enough, or whatever, and ask them how it goes for you.
 
-Remember that your goal is to follow your ambitions into trouble. \[TODO: <-- Revise] Embrace it and don’t hedge!
+Remember that your goal is to follow the road wherever it leads you. Embrace it and don’t hedge!
 ### Violently
 
 …against an enemy.
@@ -436,3 +485,93 @@ Many charges are shifty, troublesome, or clearly compromised. When you choose on
 
 **Without a charge**
 * I have come to a boarding house along a remote stretch of road to renew its aging wards, only to find them utterly destroyed. There is no telling what malice spirits may have wrought upon it now it's slipped from the Weave. What scene greets me when I enter?
+
+## The Woven World
+
+The world is old. It has seen many epochs and ages. With time it has grown strange and dreamlike. For some time, a great Empire ruled over all. Now only ruins remain.
+
+It’s not Earth, probably, although it has a single yellow sun and a single white moon and three stars in a row in the winter sky that everyone recognizes. It has summers and winters, forests and deserts, great various continents and unmeasured salt seas. It has horses, dogs, cats, birds, cattle, lions, hyenas, camels, llamas, marsupials, mustelidae, primates, pachyderms.
+
+If you went there you could breathe the air but the language would be unknown to you and the food and fashions unfamiliar.
+
+### Human Nature
+
+Human beings love to have full bellies, warm rugs, sweet sad music, and their loved ones nearby.
+
+They hate violence, hunger, fear, cold, injustice, and their friends who have wronged them.
+
+They work stone, clay, wood, metal, cloth, fur, glass, horn, sinew, bark, leaves, leather, and reeds. They cook their food, brew their drink, bury their pickles, eat fruit in season, eat fish when it runs, and eat salt when they have it. They hold their nose when the healer makes them swallow balms and pungencies.
+
+They create polities no bigger than city-states, usually, and usually no longer-lived than dynasties. The greatest and the least usually eat grain from the same fields and hunt ducks on the same rivers.
+
+### The Priest's Vows
+
+_In the order of their precedence:_
+
+1. Tend to the Weave.
+2. Accept such petitions and supplications as are possible.
+3. Conduct your charge safely to their destination.
+4. Do no harm, except as is necessary for the protection of your life and your charge.
+
+### The Weave and the Order
+The roads bind the world in a tapestry, woven together by countless and variegated threads. They draw it together, holding the cities, homes, fields, and harbours in their place, maintaining their connection, and preserving the distance between the wild and dangerous spirits and the decent affairs of humanfolk.
+
+This arrangement was not easily won. A maddening webwork of compacts, wards, protections and bindings keeps the spirits placid. An equally complex matrix of mortal duties, accords, and tireless labour, ensures that the roads do not decay and disappear.
+
+Two webs: The roads and its laws. Each is tangled, messy, and crucial. All together they are called the Weave. The Order of the Roads, through its Priests, sees to its care.
+
+### Spirits
+Spirits are of the world. They are in the winds, the mountains, the forests and the trees. They are everywhere, though they are fewer and weaker where humans live within the Weave. They are not the restless souls of the dead, which are called ghosts.
+
+Every spirit is unique. What every spirit wants most is to be entirely itself. Humans make this difficult: they break the stone and make it into houses. They cut the tree and make wood into fire. They clear the forests to plant their fields, and carve roads through both.
+
+Among other things, the Weave represents humanity and spirits' best effort at coexistence. It puts each in its place, and sets the terms for their exchanges.
+
+### Petitions and Charges
+A _petition_ is a formal agreement between a road priest and a traveler -- the priest's _charge_ -- to accompany the charge to their destination. The priest's duties to their charge include seeing to their safety and basic welfare for the duration of the voyage, determining the path to the destination, and, if necessary, protecting the charge's life from peril, even at the priest's own risk.
+
+A _supplication_ is a special kind of petition that suspends the ordinary rules of petitioning. It requires, first, _circumstance._ The supplicant must be in mortal danger, or have a critical duty (be it temporal or spiritual) that can only be met with the help of the priest. Second, it requires _urgency_: The circumstance cannot wait for the help of another, or the regular arrangement of the tithe.
+
+## The Volunteer's Guide
+
+Thanks for volunteering to play The Priest of the Road with me! Here are the rules.
+
+**\1. Your Goal in the Game:**
+
+You’re doing me a favor just by playing, so you don’t have to worry about winning or losing the game. Your goal is just to say things that you, personally, find honestly entertaining.
+
+**\2. Your Main Job:**
+
+Almost your only job is to get with the other volunteer and make up answers to my questions.
+
+I’ll ask things like “I’m set upon by raiders. What are they like?” You and your fellow volunteer can imagine any raiders you want, exactly the raiders you find most fun, and tell me about them together.
+
+If you want to ask me any questions before you answer mine, to make sure you’ve got all the details right or whatever, please do! I’ll be more than happy to answer them.
+
+Sometimes the answer to one of my questions will be obvious, or you’ll already know it from what somebody’s said before. In that case, just give the obvious answer, no need to second guess.
+
+Sometimes one of my questions will be way out, weird, maybe contextless. You can always ask me clarifying questions, but you can also just say whatever pops into your head and let me be the one who has to make sense of it.
+
+Sometimes I’ll show you one of my sheets and have you choose something from a list, too. Always choose whichever option seems best to you at the moment.
+
+I also have a sheet here called “The Woven World,” which includes a bunch of ideas that you can use and build on. If I didn’t already hand it over, remind me.
+
+**\3. You and the Other Volunteer:**
+
+In order for anything to really count, you and the other volunteer have to agree on it. If you don’t agree about something, it’s not true until you do. Talk it over until you’re both satisfied. I’ll wait!
+
+The reason there are two of you, by the way, is that this way you can trade off and build on each others’ ideas. Neither of you has to do all the work.
+
+If you have any trouble coming to agreement and you want to use some kind of system to decide, like R-P-S or flipping a coin or dibs or something, that’s none of my business. Whatever works for you. Just let me know what you’ve decided.
+
+I have a 6-sided die you can borrow if you want to roll it.
+
+**\4. Ending the game:**
+
+Any of us can end the game whenever we want, for any reason or none at all. It doesn’t matter how abrupt it might be.
+
+If, at any point, it seems impossible to entertain yourself, or not worth it, or anything like that, don’t hesitate, just call an end.
+
+**\5. Thank you!**
+
+You’re the best! I’m lucky to have you.

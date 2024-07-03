@@ -1,5 +1,5 @@
 # Atlas of the Weave
-*Version 0.2*
+*Game Jam Edition*
 ## The Woven World
 
 The world is old. It has seen many epochs and ages. With time it has grown strange and dreamlike. For some time, a great Empire ruled over all. Now only ruins remain.

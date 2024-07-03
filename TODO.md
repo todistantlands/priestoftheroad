@@ -1,8 +1,13 @@
 - [x] Get github page shared
 - [x] Add attribute generation to priest booklet
 - [x] Fill out Wrath of Spirits
-- [ ] Priest booklet: Add primer on the weave
+- [x] Priest booklet: Add primer on the weave
 - [x] Priest sheet: Add gear (staff, ritual implements, robes, shield(?))
 - [x] Priest booklet and sheet: Define priest's *goals* (follow your vows wherever they lead, try and do the right thing -- whatever that means)
-- [ ] Finish description of exerting intuitively
-- [ ] Create volunteer handouts
+- [x] Finish description of exerting intuitively
+- [x] Create volunteer handouts
+	- [x] Woven world
+	- [x] Volunteer's guide
+	- [x] character sheet
+- [ ] More spawning circumstances
+- [x] Priest booklet introductory matter
