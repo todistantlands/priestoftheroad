@@ -1,5 +1,11 @@
 # The Priest of the Road
+*A roleplaying game by Alex Chalk*
+
 *Game Jam Edition*
+
+*© 2024 Alex Chalk*
+The Priest of the Road *is hack of D. Vincent Baker's* The Wizard's Grimoire *series of games, © 2021 Meguey Baker & Vincent Baker.*
+*Permission granted to print & duplicate for personal use.*
 
 ## Introduction: The Weave and the Order of the Road
 

@@ -1,5 +1,14 @@
 # Mapping the Way
+*A minigame for planning journeys in* The Priest of the Road,
+*a roleplaying game by Alex Chalk*
+
 *Game Jam Edition*
+
+*© 2024 Alex Chalk*
+The Priest of the Road *is hack of D. Vincent Baker's* The Wizard's Grimoire *series of games, © 2021 Meguey Baker & Vincent Baker.*
+*Permission granted to print & duplicate for personal use.*
+
+## Introduction
 
 _Mapping the Way_ is a game to create maps and overland journeys for The Priest of the Road. It can be played in the middle of a session of The Priest of the Road when the Priest studies their voyage, but it can also be played on its own, just for fun, or to create overland adventures for any tabletop roleplaying game!
 

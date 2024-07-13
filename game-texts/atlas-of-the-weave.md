@@ -1,5 +1,12 @@
 # Atlas of the Weave
+*A companion text to* The Priest of the Road
+*a role-playing game by Alex Chalk*
+
 *Game Jam Edition*
+
+*© 2024 Alex Chalk*
+The Priest of the Road *is hack of D. Vincent Baker's* The Wizard's Grimoire *series of games, © 2021 Meguey Baker & Vincent Baker.*
+*Permission granted to print & duplicate for personal use.*
 ## The Woven World
 
 The world is old. It has seen many epochs and ages. With time it has grown strange and dreamlike. For some time, a great Empire ruled over all. Now only ruins remain.
