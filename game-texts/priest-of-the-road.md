@@ -45,7 +45,7 @@ You begin the game with 7 named and rated Exertions, plus Submission, as follows
 
 - *You may exert yourself **intuitively** to grasp the nuances of a situation or person. Your rating is equal to your **sensitive** tally, plus 1.*
 - *You may exert yourself **devoutly** to perform the arts of your order.  As play begins, you have access to five arts: study a voyage, negotiate a Petition, commune with spirits, incant wards and benedictions, and administer healing or exorcism. Your rating is equal to you **disciplined** tally plus your **sensitive** tally, but with a minimum of 3.*
-- *You may exert yourself **expertly** to undertake a journey over land. Your rating is equal to your **spry** tally plus your **sensitive** tally, but with a minimum of 3.*
+- *You may exert yourself **expertly** to undertake a journey over land. Your rating is equal to your **spry** tally plus your **sensitive** tally.*
 - *You may exert yourself **authoritatively** to sway or command others. Your rating is equal to your **disciplined** tally, plus 1.*
 - *You may exert yourself **subtly** to pass or take action unremarked. Your rating is equal to your **spry** tally, plus 1, but with a maximum of 4.*
 - *You may exert yourself **physically**, against the mass and momentum of an uncooperative or unsensible thing. Your rating is equal to you **staunch** tally, plus 1.*
@@ -171,26 +171,23 @@ These are not all magical: The first two are entirely mundane, whereas the last 
 As play proceeds, if you earn the favour of your Order, you may be initiated into further arts.
 ### Expertly
 
-…to embark upon or resume a journey along the roads.
+…to undertake a journey along the roads.
 
-When you embark upon a journey along the roads, tell your volunteers where you are going: If the journey is long, tell them about the waypoint you hope to arrive at, rather than your final destination. Tell what you know about the way, and how long you expect it will take. If you don’t know these last two, ask, but remind your volunteers they are under no obligation to answer.
+When you embark upon a journey along the roads, tell your volunteers where you are going and how you plan to get there. If the journey is long, tell them about the waypoint you hope to arrive at, rather than your final destination. Tell what you know about the way, and how long you expect it will take. If you don’t know these last two, ask, but remind your volunteers they are under no obligation to answer.
 
-Tell your volunteers you can get straight to your destination without rolling if the way is truly safe and nothing threatens my passage. Ask them if you should roll.
+Tell your volunteers you can get straight to your destination without rolling if the way is truly safe and nothing threatens your passage. Ask them if you should roll.
 
-If you must roll: Tell your volunteers to consult the ‘Journeys’ section in the _Atlas of the Weave_, and roll. Journeys can take a while, so make a note of how many hits you score for future reference. Tell your volunteers:
+When you roll, **on any hits**, you make good progress towards your destination. Choose one per hit, or as many as apply.
 
-* Where the next leg of your journey takes you.
-* Whether you think you are close to your destination, or still have far to go.
-* What advantages you take from the land, your training, your gear, etc.
-* What hazards or obstacles, if any, you worry might arise.
+- *The going is smooth. I'll definitely make good progress by the end of this leg, at least as far as \[x].*
+- *I know this road like the back of my hand. If anything is off, I'll see it from a mile away.*
+- *I'm keeping an eye out for \[x]. If there's any chance of it, I'll spot it.*
+- *I learn something about my journey or charge. What is it?*
+- *I won't want for something (food, water, shelter, &c.). Namely \[x].*
 
-Spend a hit and ask your volunteers if you arrive at your destination. If you don’t, ask how far you get, what you see there, and if anything troubles your way.
+Tell your volunteers your choices. Ask them if anything comes up as you travel, and whether you reach your destination. **If you reach your destination,** ask them what you see and hear. Otherwise, ask them how far you get and what you find there.
 
-Continue spending hits, asking the questions above, and asking whatever questions or making whatever exertions might arise in between, until you arrive at your destination or run out of hits.
-
-**When you arrive at your destination**, ask your volunteers what you see.
-
-**On a miss**, or if you **spent your last hit** without reaching your destination, tell your volunteers that the journey is not going as planned and ask them what misfortune befalls you.
+**On a miss**, tell your volunteers that the journey is not going as planned. Tell them to choose one from the list above, and ask them what misfortune befalls you.
 ### Authoritatively
 
 …to sway or command others.
